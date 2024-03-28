@@ -1,0 +1,12 @@
+com/mm/surrealdb/annotation/SurrealTable.class
+com/mm/surrealdb/annotation/SurrealQuery.class
+com/mm/surrealdb/SurrealDBConnection.class
+com/mm/surrealdb/RepositoryInitializerAutoConfiguration.class
+com/mm/surrealdb/SurrealCrudRepositoryImpl.class
+com/mm/surrealdb/SurrealCrudRepository.class
+com/mm/surrealdb/exception/SurrealSpringException.class
+com/mm/surrealdb/annotation/SurrealId.class
+com/mm/surrealdb/RepositoryInitializer.class
+com/mm/surrealdb/exception/MissingSurrealTableAnnotationException.class
+com/mm/surrealdb/SequenceEntity.class
+com/mm/surrealdb/annotation/SurrealSequenceId.class

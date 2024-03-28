@@ -1,0 +1,12 @@
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/RepositoryInitializerAutoConfiguration.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/SurrealDBConnection.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/exception/MissingSurrealTableAnnotationException.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/annotation/SurrealTable.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/RepositoryInitializer.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/exception/SurrealSpringException.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/annotation/SurrealSequenceId.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/annotation/SurrealId.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/SequenceEntity.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/annotation/SurrealQuery.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/SurrealCrudRepositoryImpl.java
+/Users/mukund/surreal-spring/src/main/java/com/mm/surrealdb/SurrealCrudRepository.java
